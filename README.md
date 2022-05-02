@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jaewook-Lee. I'm majoring in software at Kookmin University.
-- 👀 I’m interested in ML.
+- 👀 I’m interested in ...?
 - 🌱 I’m currently learning ...?
 - 💞️ I’m not looking to collaboration.
 - 📫 Mail : swljw@kookmin.ac.kr
