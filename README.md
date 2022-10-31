@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaewook-Lee. I'm majoring in software at Kookmin University.
 - 👀 I’m interested in ML and Smart Contract.
-- 🌱 I’m currently learning ML alone.
+- 🌱 I’m currently learning ML & CV.
 - 💞️ I’m looking to collaboration.
 - 📫 Mail : swljw@kookmin.ac.kr
 
