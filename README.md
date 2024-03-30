@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Jaewook-Lee. I'm majoring in software at Kookmin University.
-- 👀 I’m interested in ...  
-- 🌱 I’m currently learning 'Practice in Big Data'.  
+- 👋 Hi, I’m @Jaewook-Lee.
+- 👀 I’m interested in analysing data.  
+- 🌱 I’m currently learning how to analysis data with python.  
 - 💞️ I’m looking to collaboration.
-- 📫 Mail : swljw@kookmin.ac.kr
+- 📫 Mail : a79403515@gmail.com
 
 <!---
 Jaewook-Lee/Jaewook-Lee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
